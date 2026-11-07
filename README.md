@@ -13,8 +13,8 @@ It answers patient questions from the clinic's own data, books / changes / cance
 ![Tests](https://img.shields.io/badge/tests-114%2F114%20passed-brightgreen)
 ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Arabic%20(RTL)-blue)
 
-![Patient chat](01-patient-chat-home.jpg)
-
+![Patient chat]
+<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_28_24 PM" src="https://github.com/user-attachments/assets/2594b329-e86f-430b-8380-4971e73c7e75" />
 </div>
 
 ---
