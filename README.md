@@ -75,7 +75,8 @@ It answers patient questions from the clinic's own data, books / changes / cance
 
 | Home / suggested questions | Chat with collapsed sidebar |
 |:---:|:---:|
-| ![Patient chat home](01-patient-chat-home.jpg) | ![Patient chat, collapsed sidebar](02-patient-chat-collapsed-sidebar.jpg) |
+| ![Patient chat home]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_28_24 PM" src="https://github.com/user-attachments/assets/62194cb7-7b31-48a9-91ab-a8c9b88633a7" />
+ | ![Patient chat, collapsed sidebar]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_29_50 PM" src="https://github.com/user-attachments/assets/387a063b-8f39-412f-ad74-94786175e9a6" />
 
 The sidebar switches between **English / العربية** and between **Patient chat** and **Clinic dashboard**. The welcome screen offers one-click suggested questions (e.g. *Which clinic should I visit for knee pain?*).
 
@@ -84,32 +85,32 @@ The sidebar switches between **English / العربية** and between **Patient 
 #### 1 · Overview
 KPIs (bookings today, upcoming, cancelled, patient messages, documents) and charts for patient requests by type, bookings by department and bookings by doctor.
 
-![Dashboard overview](03-dashboard-overview.jpg)
+![Dashboard overview]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_29_00 PM" src="https://github.com/user-attachments/assets/1bc2953e-07d5-4d3c-951b-bb7841bc7151" />
 
 #### 2 · Bookings
 Date and status filters, a table with the weekday next to the date, the doctor session window, the patient's **turn number**, price snapshot, CSV export, and cancellation by booking code.
 
-![Dashboard bookings](04-dashboard-bookings.jpg)
+![Dashboard bookings]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_29_12 PM" src="https://github.com/user-attachments/assets/1496af3e-bae2-4dcc-a0f2-2978e42f7dc7" />
 
 #### 3 · Doctors, fees and sessions
 The owner edits doctors (English / Arabic names), consultation fees and weekly sessions directly; the booking tools read these tables live.
 
-![Dashboard doctors and fees](05-dashboard-doctors-fees.jpg)
+![Dashboard doctors and fees]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_29_20 PM" src="https://github.com/user-attachments/assets/d67c6f24-1ddf-41a2-ace3-abe253ff3b94" />
 
 #### 4 · Knowledge base
 Upload `.xlsx`, `.pdf`, `.txt` or `.md` files, or import a shared Google Sheet. Every file is chunked and indexed for retrieval, and each document can be removed.
 
-![Dashboard knowledge base](06-dashboard-knowledge-base.jpg)
+![Dashboard knowledge base]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_29_28 PM" src="https://github.com/user-attachments/assets/2f285046-e310-45aa-a4a7-f328508bb904" />
 
 #### 5 · Reports
 Daily schedule per date, CSV download, an **AI-generated summary**, and the notifications log (simulated SMS).
 
-![Dashboard reports](07-dashboard-reports.jpg)
+![Dashboard reports]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_29_34 PM" src="https://github.com/user-attachments/assets/16fb3a71-e0ed-4059-a2f5-d113d04fe1c8" />
 
 #### 6 · Security
 Change the owner password (minimum 8 characters). Passwords are stored as salted PBKDF2 hashes.
 
-![Dashboard security](08-dashboard-security.jpg)
+![Dashboard security]<img width="1920" height="1040" alt="Clinic AI Assistant — Mozilla Firefox 11_7_2026 4_29_40 PM" src="https://github.com/user-attachments/assets/57304bc8-29d5-4e1c-a6ed-7cdcc1386be1" />
 
 ---
 
